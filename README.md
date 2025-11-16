@@ -71,7 +71,3 @@ dotnet restore
 ```code
 dotnet run
 ```
-## API disponível em:
-👉 http://localhost:5000
-ou
-👉 https://localhost:7000
